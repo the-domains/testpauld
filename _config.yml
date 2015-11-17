@@ -1,6 +1,6 @@
 name: testpauld
 favicon: null
-layout_spectrum: 0.18460912071168423
+layout_spectrum: 1
 typography_spectrum: 0.22851201053708792
 cta:
   domain: null
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.8810147759504616
+  brandStrength: 1
   lightness: 0.045359236653894186
   saturation: 0.794877426000312
   rhythmicContrast: 0.4062684855889529
